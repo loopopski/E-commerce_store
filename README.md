@@ -1,4 +1,6 @@
-# E-commerce_store# Ibadan Store
+# E-commerce_store
+
+# Ibadan Store
 
 This is an e-commerce web application built with Next.js, SCSS, and Sanity CMS. Detroit Store allows users to browse and purchase products online. The application provides a user-friendly interface, responsive design, and seamless checkout process.
 
