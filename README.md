@@ -1,4 +1,3 @@
-# E-commerce_store
 
 # Ibadan Store
 
@@ -7,7 +6,7 @@ This is an e-commerce web application built with Next.js, SCSS, and Sanity CMS. 
 [ecommerce-store-pied-psi.vercel.app](ecommerce-store-pied-psi.vercel.app)
 ![Screenshot of Ulta Beauty](Screenshot.png)
 
-https://github.com/D3troit98/ecommerce-store/blob/master/Screenshot.png
+
 ## Table of Contents
 
 - Features
